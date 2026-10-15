@@ -98,7 +98,7 @@ Inspired by years of end-user support and device management in multinational env
 
 Need a version adapted to your environment (different rules, your own branding, extra data sources or a scheduled weekly report)? Get in touch:
 
-- Email: [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es)
+- Website (contact form): [inigogonzalezgarcia.github.io](https://inigogonzalezgarcia.github.io/about.html#contacto)
 - LinkedIn: [linkedin.com/in/igonzalez93](https://www.linkedin.com/in/igonzalez93)
 
 ## License
